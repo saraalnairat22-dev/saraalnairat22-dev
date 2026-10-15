@@ -1,8 +1,7 @@
 
 
 <div align="center">
-#SARA ALNAIRAT
-## Hi there 👋   Artificial Intelligence
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:171126,50:6842A6,100:C8A2E8&height=190&section=header&text=Sara%20Alnairat&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Robotics&descAlignY=60&descSize=17" width="100%" />
 
 ### Artificial Intelligence Student | Aspiring AI Engineer
