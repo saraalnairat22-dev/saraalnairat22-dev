@@ -79,7 +79,7 @@ A Machine Learning project developed using Python and Jupyter Notebook to explor
 - **Tools:** Python, Jupyter Notebook, Pandas, Scikit-learn.
 - **Goal:** Explore housing data and build a model to estimate house prices.
 - **Focus:** Data preprocessing, feature analysis, and Machine Learning.
-- 🔗 **[View Project on GitHub](https://github.com/saraalnairat22-dev/house-price-prediction)**
+- 🔗 **[View Project on GitHub](https://house-price-prediction-saraalnairat.streamlit.app/)**
 
 ### 📉 [Customer Churn Prediction](https://github.com/saraalnairat22-dev/customer-churn-prediction)
 
@@ -90,7 +90,7 @@ A Machine Learning project that predicts customer churn using Python, with a Str
 - **Models:** Logistic Regression and Random Forest.
 - **Best recorded accuracy:** 80.38% using Logistic Regression.
 - **Cross-validation ROC-AUC:** 0.8461.
-- 🔗 **[View Project on GitHub](https://github.com/saraalnairat22-dev/customer-churn-prediction)**
+- 🔗 **[View Project on GitHub]((https://customer-churn-prediction-sara.streamlit.app/))**
 
 ### 💬 Twitter Entity Sentiment Analysis
 
