@@ -1,18 +1,27 @@
 
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:100B1F,35:38205F,70:8155C7,100:DCC6FF&height=230&section=header&text=Sara%20Alnairat&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20DATA%20ANALYSIS%20%7C%20MACHINE%20LEARNING%20%7C%20ROBOTICS&descAlignY=61&descSize=15" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=C8A2E8&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+Student;Aspiring+AI+Engineer;Turning+Data+into+Insights;Building+Intelligent+Solutions;Machine+Learning+%7C+Data+Analysis+%7C+Robotics" alt="Typing introduction"/>
+# 👋 Hi there, I'm Sara!
+
+### 💜 AI Student | Aspiring AI Engineer
+
+*Turning data into insights and ideas into intelligent solutions.*
+
+📊 Data Analysis • 🧠 Machine Learning • 💬 NLP • 🤖 Robotics
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=C8A2E8&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+Student;Exploring+Data+Analysis+and+Machine+Learning;Building+Intelligent+Solutions;Learning+Through+Real+Projects" alt="Typing introduction"/>
 
 <br/>
 
-<a href="https://github.com/saraalnairat22-dev"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-C8A2E8?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sara-alnairat/"><img src="https://img.shields.io/badge/LinkedIn-Connect-9B7EBD?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/saraalnairat22-dev"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-C8A2E8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/sara-alnairat/"><img src="https://img.shields.io/badge/LinkedIn-Connect-9B7EBD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AI-Student-6842A6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Student-6842A6?style=flat-square"/>
 <img src="https://img.shields.io/badge/Data%20Analysis-Insights-C8A2E8?style=flat-square"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-Projects-9B7EBD?style=flat-square"/>
 <img src="https://img.shields.io/badge/Robotics-Hardware-6842A6?style=flat-square"/>
@@ -25,14 +34,16 @@
 
 Hello! I'm **Sara Alnairat**, an Artificial Intelligence student at **Al-Zaytoonah University of Jordan**.
 
-I'm passionate about analyzing data, building machine learning models, exploring intelligent systems, and developing practical solutions to real-world problems.
+I'm passionate about analyzing data, developing machine learning models, exploring intelligent systems, and building practical solutions to real-world problems.
+
+I enjoy learning by experimenting, evaluating results, understanding errors, and continuously improving my projects.
 
 - 🎓 Artificial Intelligence undergraduate student
 - 📊 Interested in Data Analysis and Data Visualization
 - 🧠 Exploring Machine Learning and Natural Language Processing
 - 🏥 Developing a research-oriented healthcare AI project
 - 🤖 Building hands-on robotics projects using Arduino
-- 🌱 Learning through practical projects and experimentation
+- 🌱 Continuously learning through practical projects
 - 🎯 Aspiring AI Engineer
 
 > *Dream big. Analyze deeply. Build intelligently. Improve continuously.* ♡
@@ -41,7 +52,7 @@ I'm passionate about analyzing data, building machine learning models, exploring
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming
+### 💻 Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-7B68A6?style=for-the-badge&logo=python&logoColor=white"/>
@@ -62,7 +73,8 @@ I'm passionate about analyzing data, building machine learning models, exploring
 - Statistical summaries and interpretation
 - Data visualization and pattern discovery
 - Feature engineering and dataset preparation
-- Data-driven insights and reporting
+- Extracting insights from datasets
+- Data-driven reporting and decision support
 
 ### 🧠 Machine Learning & NLP
 
@@ -74,6 +86,12 @@ I'm passionate about analyzing data, building machine learning models, exploring
 <img src="https://img.shields.io/badge/NLP-6842A6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/TF--IDF-8155C7?style=for-the-badge"/>
 </p>
+
+- Classification and regression
+- Model evaluation and validation
+- Feature extraction
+- Text preprocessing and sentiment analysis
+- Cross-validation and performance metrics
 
 ### ⚙️ Tools & Development
 
@@ -110,18 +128,18 @@ A machine learning project that predicts customer churn and compares classificat
 
 ### 02. 💬 Twitter Entity Sentiment Analysis
 
-An NLP project exploring sentiment classification across 61,121 tweets.
+An NLP project exploring sentiment classification across a dataset of 61,121 tweets.
 
 - **Feature extraction:** TF-IDF
 - **Model:** Logistic Regression
 - **Recorded accuracy:** 53.8%
 - **Tools:** Python, Scikit-learn
 
-*Focus: Text preprocessing, classification, and model improvement.*
+*Focus: Text representation, sentiment classification, and model improvement.*
 
 ### 03. 🌸 Iris Classification with PySpark
 
-A classification project using a Decision Tree model.
+A machine learning project using a Decision Tree classifier.
 
 - **Tools:** Python, PySpark
 - **Recorded accuracy:** 97.78%
@@ -179,28 +197,28 @@ An educational technology concept exploring interactive learning support for chi
 
 </div>
 
-*Statistics are provided by external services and may take time to load.*
+*Statistics are provided by external services and may be delayed or incomplete.*
 
 ---
 
 ## 🏆 Achievements & Leadership
 
 - 🏅 University Honor Board — 4 times
-- 🤖 National Sumo Robots Championship — knockout-stage participant
+- 🤖 National Sumo Robots Championship — advanced to the knockout rounds
 - 🌐 IEEE Student Member
 - 🤖 IEEE Robotics & Automation Society (RAS) Member
 - 💜 IEEE Women in Engineering (WIE) — Secretary & Treasurer
-- 🔧 Participated in an IEEE RAS Arduino Simulation Workshop
+- 🔧 Participated in an IEEE RAS Arduino Simulation Workshop at Al-Zaytoonah University of Jordan
 - 🎓 Experience in university competition organization and robotics course instruction
 
 ---
 
 ## 📚 Currently Learning
 
-| Area | Focus |
+| Area | Learning Focus |
 |---|---|
-| 📊 Data Analysis | EDA, data cleaning, visualization, and interpretation |
-| 🧠 Machine Learning | Model evaluation and validation |
+| 📊 Data Analysis | EDA, cleaning, visualization, and interpretation |
+| 🧠 Machine Learning | Model selection, evaluation, and validation |
 | 💬 NLP | Text preprocessing and classification |
 | ⚡ Big Data | PySpark and distributed processing |
 | 🏥 Healthcare AI | Responsible analysis of health-related data |
