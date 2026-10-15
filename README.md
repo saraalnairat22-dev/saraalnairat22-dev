@@ -1,246 +1,261 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A16,40:065F46,75:10B981,100:D6B779&height=230&section=header&text=Sara%20Alnairat&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20DATA%20ANALYSIS%20%7C%20MACHINE%20LEARNING%20%7C%20ROBOTICS&descAlignY=61&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A16,40:065F46,75:10B981,100:D6B779&height=230&section=header&text=Sara%20Alnairat&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20DATA%20ANALYSIS%20%7C%20MACHINE%20LEARNING%20%7C%20ROBOTICS&descAlignY=61&descSize=15" width="100%" />
 
-# 👋 Hi there, I'm Sara!
+<h1>👋 Hi there, I'm Sara!</h1>
 
-### 💚 AI Student | Aspiring AI Engineer
+<h3>Artificial Intelligence Student | Aspiring AI Engineer</h3>
 
-*Turning data into insights and ideas into intelligent solutions.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=10B981&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+Student;Exploring+Data+Analysis+and+Machine+Learning;Building+Intelligent+Solutions;Learning+Through+Real+Projects;Exploring+Robotics+and+Embedded+Systems" alt="Typing SVG" />
 
-📊 Data Analysis • 🧠 Machine Learning • 💬 NLP • 🤖 Robotics
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=10B981&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+Student;Exploring+Data+Analysis+and+Machine+Learning;Building+Intelligent+Solutions;Learning+Through+Real+Projects" alt="Typing introduction"/>
-
-<br/>
-
-<a href="https://github.com/saraalnairat22-dev"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-065F46?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/sara-alnairat/"><img src="https://img.shields.io/badge/LinkedIn-Connect-10B981?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-Student-065F46?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-Insights-10B981?style=flat-square"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-Projects-0B3D30?style=flat-square"/>
-<img src="https://img.shields.io/badge/Robotics-Hardware-D6B779?style=flat-square"/>
+<p>
+  <a href="https://www.linkedin.com/in/sara-alnairat/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-D6B779?style=for-the-badge&logo=linkedin&logoColor=071A16" />
+  </a>
+  <a href="https://github.com/saraalnairat22-dev">
+    <img src="https://img.shields.io/badge/GitHub-Follow-065F46?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 👩🏻‍💻 About Me
+## 💚 About Me
 
-Hello! I'm **Sara Alnairat**, an Artificial Intelligence student at **Al-Zaytoonah University of Jordan**.
+I'm Sara Alnairat, an Artificial Intelligence student at **Al-Zaytoonah University of Jordan**, passionate about building intelligent solutions that address real-world problems.
 
-I'm passionate about analyzing data, developing machine learning models, exploring intelligent systems, and building practical solutions to real-world problems.
+My interests include:
 
-I enjoy learning through experimentation, evaluating results, understanding errors, and continuously improving my projects.
+- 🧠 Artificial Intelligence and Machine Learning
+- 📊 Data Analysis and Data-Driven Decision Making
+- 💬 Natural Language Processing (NLP)
+- 🤖 Robotics and Embedded Systems
+- 🏥 AI applications in healthcare and cognitive monitoring
+- 🚀 Building practical projects and continuously improving my skills
 
-- 🎓 Artificial Intelligence undergraduate student
-- 📊 Interested in **Data Analysis and Data Visualization**
-- 🧠 Exploring Machine Learning and Natural Language Processing
-- 🏥 Developing a research-oriented healthcare AI project
-- 🤖 Building hands-on robotics projects using Arduino
-- 🌱 Continuously learning through practical projects
-- 🎯 Aspiring AI Engineer
-
-> *Dream big. Analyze deeply. Build intelligently. Improve continuously.* 💚
+I believe in learning by doing, experimenting with data, and turning ideas into practical projects.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+### 💻 Programming & Development
 
 <p>
-<img src="https://img.shields.io/badge/Python-065F46?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-0B3D30?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-065F46?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-071A16?style=for-the-badge&logo=postgresql&logoColor=D6B779" />
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-065F46?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-071A16?style=for-the-badge&logo=jupyter&logoColor=D6B779" />
 </p>
 
-### 📊 Data Analysis & Data Science
+### 📊 Data Analysis & Machine Learning
 
 <p>
-<img src="https://img.shields.io/badge/Pandas-065F46?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-10B981?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-0B3D30?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-D6B779?style=for-the-badge&logo=python&logoColor=071A16"/>
+  <img src="https://img.shields.io/badge/Pandas-065F46?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-071A16?style=for-the-badge&logo=numpy&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/Scikit--learn-065F46?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-071A16?style=for-the-badge&logo=apachespark&logoColor=D6B779" />
+  <img src="https://img.shields.io/badge/Streamlit-065F46?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-- Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
-- Statistical summaries and interpretation
-- Data visualization and pattern discovery
-- Feature engineering and dataset preparation
-- Extracting insights from datasets
-- Data-driven reporting and decision support
-
-### 🧠 Machine Learning & NLP
+### 🧠 AI & Robotics
 
 <p>
-<img src="https://img.shields.io/badge/Scikit--learn-065F46?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Logistic%20Regression-0B3D30?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Random%20Forest-10B981?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Decision%20Trees-065F46?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-0B3D30?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TF--IDF-D6B779?style=for-the-badge&logoColor=071A16"/>
-</p>
-
-- Classification and regression
-- Model evaluation and validation
-- Feature extraction
-- Text preprocessing and sentiment analysis
-- Cross-validation and performance metrics
-
-### ⚙️ Tools & Development
-
-<p>
-<img src="https://img.shields.io/badge/Jupyter-065F46?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-0B3D30?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-065F46?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-10B981?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/PySpark-0B3D30?style=for-the-badge&logo=apachespark&logoColor=white"/>
-</p>
-
-### 🤖 Robotics & Hardware
-
-<p>
-<img src="https://img.shields.io/badge/Arduino-065F46?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Embedded%20Systems-0B3D30?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Sensors%20%26%20Motors-10B981?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-065F46?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-071A16?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-065F46?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arduino-071A16?style=for-the-badge&logo=arduino&logoColor=10B981" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 01. 📊 Customer Churn Prediction
+### 1. 📉 Customer Churn Prediction
 
-A machine learning project that predicts customer churn and compares classification models.
+A machine learning project that predicts whether a customer is likely to leave a service.
 
-- **Models:** Logistic Regression and Random Forest
-- **Tools:** Python, Pandas, Scikit-learn
-- **Recorded mean cross-validation ROC-AUC:** 0.8461
-- **Recorded Logistic Regression accuracy:** 80.38%
+- **Tech:** Python, Pandas, Scikit-learn, Logistic Regression, Random Forest
+- **Best model accuracy:** 80.38% (Logistic Regression)
+- **Cross-validation ROC-AUC mean:** 0.8461
+- **Goal:** Support data-driven customer retention decisions.
 
-*Focus: Data preprocessing, model evaluation, cross-validation, and predictive analytics.*
+### 2. 💬 Twitter Entity Sentiment Analysis
 
-### 02. 💬 Twitter Entity Sentiment Analysis
+An NLP project that analyzes sentiment in tweets associated with different entities.
 
-An NLP project exploring sentiment classification across a dataset of 61,121 tweets.
+- **Dataset:** 61,121 tweets
+- **Tech:** Python, TF-IDF, Logistic Regression
+- **Accuracy:** 53.8%
+- **Goal:** Explore text classification and sentiment analysis.
 
-- **Feature extraction:** TF-IDF
-- **Model:** Logistic Regression
-- **Recorded accuracy:** 53.8%
-- **Tools:** Python, Scikit-learn
+### 3. 🌸 Iris Classification with PySpark
 
-*Focus: Text representation, sentiment classification, and model improvement.*
+A classification project using distributed data processing concepts.
 
-### 03. 🌸 Iris Classification with PySpark
+- **Tech:** Python, PySpark, Decision Tree
+- **Accuracy:** 97.78%
+- **Goal:** Apply machine learning techniques using the Spark ecosystem.
 
-A machine learning project using a Decision Tree classifier.
+### 4. 🏡 House Price Prediction
 
-- **Tools:** Python, PySpark
-- **Recorded accuracy:** 97.78%
+A machine learning project focused on estimating house prices from property-related features.
 
-*Focus: Classification and distributed data processing.*
+- **Tech:** Python, Pandas, Scikit-learn, Streamlit
+- **Focus:** Data preparation, model training, and interactive prediction.
 
-### 04. 🏠 House Price Prediction
+### 5. 🧠 NeuroAssist AI — In Development
 
-A regression project focused on estimating house prices from housing features.
+An AI research and prototyping project focused on analyzing movement patterns and monitoring changes over time in people with Parkinson's disease.
 
-- **Tools:** Python, Pandas, Scikit-learn, Streamlit
-- **Focus:** Data analysis, regression, and prediction
+- **Focus:** Movement analysis and longitudinal monitoring.
+- **Goal:** Explore how AI could support healthcare professionals.
+- **Important:** This is a prototype, not a clinically validated diagnostic system.
 
-### 05. 🏥 NeuroAssist AI — In Development
+### 6. 🤖 Autonomous Sumo Robot
 
-A research-oriented project exploring movement analysis and longitudinal monitoring for Parkinson's disease.
+A hands-on robotics project involving the design and development of an autonomous sumo robot.
 
-- Investigating measurable movement-related features
-- Exploring changes across repeated observations
-- Considering data quality and responsible healthcare AI
+- **Hardware:** Arduino Mega, sensors, DC motors, and motor drivers.
+- **Focus:** Sensor integration, motor control, and autonomous behavior.
+- **Achievement:** Participated in the 5th National Sumo Robots Championship and advanced to the knockout rounds.
 
-**Status:** In development. Not clinically validated for diagnosis.
+### 7. 🦊 Dopa do — Assistive Learning Concept
 
-### 06. 🤖 Autonomous Sumo Robot — In Development
+An educational technology concept designed to support children who experience attention-related learning difficulties.
 
-A hands-on robotics project involving Arduino Mega, sensors, DC motors, and motor drivers.
-
-- Sensor integration and testing
-- Motor control and autonomous behavior
-- Hardware troubleshooting and iterative development
-
-**Achievement:** Participated in the 5th National Sumo Robots Championship and advanced to the knockout rounds.
-
-### 07. 🧩 Dopa do — Assistive Learning Concept
-
-An educational technology concept exploring interactive learning support for children with attention-related difficulties.
-
-- Interactive questions and learning activities
-- Identifying areas that may need additional practice
-- Memory games, timers, and reward-based engagement
+- **Concept:** Interactive learning activities, memory games, timers, and rewards.
+- **Hardware concept:** Raspberry Pi and a touchscreen.
+- **Goal:** Encourage engagement and help identify learning areas that may need more support.
 
 ---
 
-## 📈 GitHub Analytics
+## 🎓 Certifications & Training
+
+### 🧠 Artificial Intelligence & Machine Learning
+
+| Course / Certificate | Organization | Duration |
+|---|---|---:|
+| Python – Machine Learning – AI | The Hope International Company | 60 hours |
+| Introduction to Machine Learning | Makani Training Company | 5 hours |
+| Deep Learning | Qafza Tech | 3 hours |
+| Choose Your Data Roles / Career | Qafza Tech | 3 hours |
+| Python Workshop | Qafza Tech | 3 hours |
+
+### 💻 Technology & Engineering
+
+| Workshop / Certificate | Organization | Duration |
+|---|---|---:|
+| Amazon Web Services (AWS) | Makani Training Company | 3 hours |
+| Introduction to Database | Makani Training Company | 3 hours |
+| Introduction to Embedded Systems | Makani Training Company | 3 hours |
+| Digital Transformation | Makani Training Company | 2 hours |
+
+### 🌱 Professional Development
+
+| Workshop | Organization | Duration |
+|---|---|---:|
+| Social Safety | Makani Training Company | 3 hours |
+| LinkedIn & CV Workshop | Makani Training Company | 2 hours |
+
+### 📌 Certificate Notes
+
+- The Hope International Company program ran from February to April 2025.
+- Introduction to Machine Learning: August 2025.
+- Deep Learning: December 2025.
+- Choose Your Data Roles / Career: December 2025.
+- Python Workshop: September 2025.
+- The remaining workshop dates are listed on the individual certificates.
+
+---
+
+## 💚 IEEE Leadership & Membership
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saraalnairat22-dev&show_icons=true&theme=dark&bg_color=071A16&title_color=10B981&icon_color=D6B779&text_color=E8F5EF&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraalnairat22-dev&layout=compact&theme=dark&bg_color=071A16&title_color=10B981&text_color=E8F5EF&hide_border=true" alt="Most used languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=saraalnairat22-dev&background=071A16&ring=10B981&fire=D6B779&currStreakLabel=10B981&sideLabels=E8F5EF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9DB9AD&hide_border=true" alt="GitHub contribution streak"/>
+<img src="https://img.shields.io/badge/IEEE-Student%20Member-065F46?style=for-the-badge&logo=ieee&logoColor=white" />
+<img src="https://img.shields.io/badge/IEEE%20RAS-Student%20Member-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IEEE%20WIE-Secretary%20%26%20Treasurer-D6B779?style=for-the-badge" />
 
 </div>
 
-*Statistics are provided by external services and may be delayed or incomplete.*
+### 💼 Leadership & Community Involvement
+
+- **IEEE Women in Engineering (WIE)** — Secretary & Treasurer.
+- **IEEE Robotics & Automation Society (RAS)** — Student Member.
+- **IEEE Student Member** — Engaging in technical learning and professional development.
+- **Event Organization** — Experience participating in the organization of a university conference/event.
+
+### 🔧 IEEE Technical Activities
+
+**Arduino Simulation Workshop — IEEE RAS**
+
+Al-Zaytoonah University of Jordan.
+
+Participated in a workshop covering:
+
+- Arduino fundamentals.
+- Electronic circuit simulation.
+- Basic smart projects using virtual tools.
 
 ---
 
-## 🏆 Achievements & Leadership
+## 🏆 Achievements & Activities
 
-- 🏅 University Honor Board — 4 times
-- 🤖 National Sumo Robots Championship — advanced to the knockout rounds
-- 🌐 IEEE Student Member
-- 🤖 IEEE Robotics & Automation Society (RAS) Member
-- 💚 IEEE Women in Engineering (WIE) — Secretary & Treasurer
-- 🔧 Participated in an IEEE RAS Arduino Simulation Workshop at Al-Zaytoonah University of Jordan
-- 🎓 Experience in university competition organization and robotics course instruction
+- 🏅 Recognized on the university Honor Board four times.
+- 🤖 Participated in the SUMO Robot Contest 2026 at Al Hussein Technical University (HTU).
+- 🔧 Participated in an IEEE RAS Arduino Simulation Workshop.
+- 💚 Serving as Secretary & Treasurer in IEEE WIE.
+- 📚 Completed specialized training in Python, Machine Learning, Deep Learning, and AI.
+- 🌱 Continuously building technical projects and expanding practical experience.
 
 ---
 
 ## 📚 Currently Learning
 
-| Area | Learning Focus |
-|---|---|
-| 📊 Data Analysis | EDA, cleaning, visualization, and interpretation |
-| 🧠 Machine Learning | Model selection, evaluation, and validation |
-| 💬 NLP | Text preprocessing and classification |
-| ⚡ Big Data | PySpark and distributed processing |
-| 🏥 Healthcare AI | Responsible analysis of health-related data |
-| 🤖 Robotics | Sensor integration and autonomous control |
-| 🚀 Deployment | Testing and deploying ML prototypes |
+- Applied Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Big Data and PySpark
+- Data Analysis and Model Evaluation
+- AI Applications in Healthcare
+- Robotics and Embedded Systems
+- Model Deployment and Software Development Practices
 
 ---
 
-## 💚 My Mission
-
-To become an AI Engineer who builds reliable, responsible, and useful intelligent systems — especially in healthcare, education, data science, and robotics.
+## 📈 GitHub Statistics
 
 <div align="center">
 
-### ✨ Learn with purpose. Build with curiosity. Create with impact.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=saraalnairat22-dev&show_icons=true&theme=merko&hide_border=true&rank_icon=github" alt="Sara's GitHub statistics" />
 
-<br/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraalnairat22-dev&layout=compact&theme=merko&hide_border=true" alt="Most used programming languages" />
 
-<a href="https://github.com/saraalnairat22-dev"><img src="https://img.shields.io/badge/Explore%20My%20GitHub-065F46?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sara-alnairat/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-10B981?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://streak-stats.demolab.com?user=saraalnairat22-dev&theme=merko&hide_border=true" alt="GitHub contribution streak" />
 
-<br/><br/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A16,40:065F46,75:10B981,100:D6B779&height=120&section=footer" width="100%"/>
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sara-alnairat/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-D6B779?style=for-the-badge&logo=linkedin&logoColor=071A16" />
+</a>
+
+<a href="https://github.com/saraalnairat22-dev">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-065F46?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A16,50:065F46,100:D6B779&height=120&section=footer" width="100%" />
+
+**“Learning, building, and turning ideas into intelligent solutions.”**
 
 </div>
