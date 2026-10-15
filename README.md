@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A16,40:065F46,75:10B981,100:D6B779&height=230&section=header&text=Sara%20Alnairat&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20DATA%20ANALYSIS%20%7C%20MACHINE%20LEARNING%20%7C%20ROBOTICS&descAlignY=61&descSize=15" width="100%" />
 
-<h1>👋 Hi there, I'm Sara!</h1>
+<h1> Hi there 👋, I'm Sara!</h1>
 
 <h3>Artificial Intelligence Student | Aspiring AI Engineer</h3>
 
