@@ -199,21 +199,27 @@ Participated in a workshop covering:
 
 ---
 
-## 👩‍🏫 Teaching & Technical Experience
-
-### 🤖 Robotics Course — Al-Zaytoonah University of Jordan
-**Faculty of Science**
-
-- Explained robotics concepts and technical fundamentals to students.
-- Shared technical knowledge and supported hands-on learning.
-- Developed communication, presentation, and teamwork skills.
-
-### 🏫 Robotics Education — Al-Mashreq School
-
-- Explained robotics concepts and introduced students to robotics-related topics.
-- Supported technical learning and knowledge sharing in an educational environment.
 
 ---
+
+## 👩‍🏫 Teaching & Technical Experience
+
+### 🤖 Robotics Instructor & Trainer
+**Al-Zaytoonah University of Jordan — Faculty of Science**
+
+- Delivered robotics training and explained technical concepts to students.
+- Provided practical guidance during robotics learning activities.
+- Helped students understand robotics fundamentals through hands-on training.
+
+### 🏫 Robotics Instructor
+**Al-Mashreq School**
+
+- Explained robotics concepts to students.
+- Supported practical learning and introduced students to robotics fundamentals.
+- Encouraged students to explore robotics and technical problem-solving.
+
+---
+
 
 ## 🛡️ Projects in Development
 
