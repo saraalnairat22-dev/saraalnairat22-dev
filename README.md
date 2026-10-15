@@ -196,14 +196,39 @@ Participated in a workshop covering:
 
 ---
 
-## 👩‍🏫 Teaching & Volunteering Experience
 
-### 🤖 Robotics Course Instructor
-**Faculty of Science — Al-Zaytoonah University of Jordan**
+---
+
+## 👩‍🏫 Teaching & Technical Experience
+
+### 🤖 Robotics Course — Al-Zaytoonah University of Jordan
+**Faculty of Science**
 
 - Explained robotics concepts and technical fundamentals to students.
-- Supported learning through technical explanations and knowledge sharing.
-- Developed communication, presentation, and teamwork skills through teaching.
+- Shared technical knowledge and supported hands-on learning.
+- Developed communication, presentation, and teamwork skills.
+
+### 🏫 Robotics Education — Al-Mashreq School
+
+- Explained robotics concepts and introduced students to robotics-related topics.
+- Supported technical learning and knowledge sharing in an educational environment.
+
+---
+
+## 🛡️ Projects in Development
+
+### 🛰️ AI-Based Area Protection Concept
+
+Currently exploring an idea for an intelligent system designed to help protect and monitor areas using technology and Artificial Intelligence.
+
+- **Focus:** AI, intelligent monitoring, and area protection.
+- **Goal:** Explore how technology can help identify potential risks and support timely responses.
+- **Status:** Idea development and initial research.
+
+The project is in the conceptual stage; its final features and implementation approach are still being explored.
+
+---
+
 
 
 ## 🏆 Achievements & Activities
