@@ -196,6 +196,16 @@ Participated in a workshop covering:
 
 ---
 
+## 👩‍🏫 Teaching & Volunteering Experience
+
+### 🤖 Robotics Course Instructor
+**Faculty of Science — Al-Zaytoonah University of Jordan**
+
+- Explained robotics concepts and technical fundamentals to students.
+- Supported learning through technical explanations and knowledge sharing.
+- Developed communication, presentation, and teamwork skills through teaching.
+
+
 ## 🏆 Achievements & Activities
 
 - 🏅 Recognized on the university Honor Board four times.
