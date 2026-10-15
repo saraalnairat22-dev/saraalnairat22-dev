@@ -1,5 +1,5 @@
 
-<div align="center">
-  <img src="./github-banner.png" width="100%" alt="Sara Alnairat AI Portfolio" />
-</div>
+<p align="center">
+  <img src="./github-banner.png" alt="Sara Alnairat AI Portfolio Banner" width="100%">
+</p>
 
