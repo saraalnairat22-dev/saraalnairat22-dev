@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:100B1F,35:38205F,70:8155C7,100:DCC6FF&height=230&section=header&text=Sara%20Alnairat&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20DATA%20ANALYSIS%20%7C%20MACHINE%20LEARNING%20%7C%20ROBOTICS&descAlignY=61&descSize=15" width="100%"/>
 
-# 👋 Hi there, I'm Sara!
+# Hi there👋 , I'm Sara!
 
 ### 💜 AI Student | Aspiring AI Engineer
 
