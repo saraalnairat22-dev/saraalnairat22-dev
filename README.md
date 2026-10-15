@@ -90,7 +90,7 @@ A Machine Learning project that predicts customer churn using Python, with a Str
 - **Models:** Logistic Regression and Random Forest.
 - **Best recorded accuracy:** 80.38% using Logistic Regression.
 - **Cross-validation ROC-AUC:** 0.8461.
-- 🔗 **[View Project on GitHub]((https://customer-churn-prediction-sara.streamlit.app/))**
+- 🔗 **[View Project on GitHub](https://customer-churn-prediction-sara.streamlit.app/)**
 
 ### 💬 Twitter Entity Sentiment Analysis
 
