@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="github-banner.png" width="100%" alt="AI & Robotics Banner"/>
-</div>
 
 <div align="center">
 
