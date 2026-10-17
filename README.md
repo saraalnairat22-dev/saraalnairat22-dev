@@ -5,20 +5,22 @@
 
 #  Hi there 👋, I'm Sara!
 
-### Artificial Intelligence Student | Aspiring AI Engineer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=10B981&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+Student;Exploring+Data+Analysis+and+Machine+Learning;Building+Intelligent+Solutions;Learning+Through+Real+Projects;Exploring+Robotics+and+Embedded+Systems" alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=10B981&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+Student;Exploring+Data+Analysis+and+Machine+Learning;Building+Intelligent+Solutions;Learning+Through+Real+Projects;Exploring+Robotics+and+Embedded+Systems" alt="Typing SVG" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/sara-alnairat-4336aa297/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-D6B779?style=for-the-badge&logo=linkedin&logoColor=071A16" />
+  </a>
+  <a href="https://github.com/saraalnairat22-dev">
+    <img src="https://img.shields.io/badge/GitHub-Follow-065F46?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/sara-alnairat/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-D6B779?style=for-the-badge&logo=linkedin&logoColor=071A16" />
-</a>
-<a href="https://github.com/saraalnairat22-dev">
-<img src="https://img.shields.io/badge/GitHub-Follow-065F46?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Username-saraalnairat22-10B981?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ## 💚 About Me
 
