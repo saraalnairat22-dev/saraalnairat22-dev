@@ -7,7 +7,7 @@
 
 ### Artificial Intelligence Student | Aspiring AI Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=10B981&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+Student;Exploring+Data+Analysis+and+Machine+Learning;Building+Intelligent+Solutions;Learning+Through+Real+Projects;Exploring+Robotics+and+Embedded+Systems" alt="Typing SVG" />
+<div align="center">
 
 <a href="https://www.linkedin.com/in/sara-alnairat-4336aa297/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-D6B779?style=for-the-badge&logo=linkedin&logoColor=071A16" />
