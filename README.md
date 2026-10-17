@@ -12,10 +12,6 @@
 <a href="https://www.linkedin.com/in/sara-alnairat/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-D6B779?style=for-the-badge&logo=linkedin&logoColor=071A16" />
 </a>
-<a href="mailto:saraalnairat22@gmail.com" class="contact-link">
-    <img src="https://img.shields.io/badge/Email-send-065F46?style=for-the-badge&logo=github&logoColor=white" />
-
-</a>
 <a href="https://github.com/saraalnairat22-dev">
 <img src="https://img.shields.io/badge/GitHub-Follow-065F46?style=for-the-badge&logo=github&logoColor=white" />
 </a>
